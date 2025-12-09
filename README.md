@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://cataas.com/cat/says/Hola%20Mundito?color=white&size=30" width="300" />
-</p>
-
-<p align="center">
-  <img src="BannerUno.png" alt="Banner" width="70%" />
+  <img src="KodokuNigamiXX-Banner.png" alt="KodokuNigamiXX Banner" width="90%" />
 </p>
 
 <!-- Fondo negro simulado usando tabla con una celda negra -->
@@ -23,9 +19,6 @@
           <br><br>
           <b style="color:#fff;">Especialidad:</b><br>
           <span style="color:#19fff7;">💙 Ciencia de Datos</span>
-        </p>
-        <p align="center">
-          <img src="https://cataas.com/cat/gif?type=sm" width="150" />
         </p>
       </td>
     </tr>
@@ -63,44 +56,6 @@
         <h2 align="center" style="color:#fff;">💙 Mi Discord</h2>
         <p align="center">
           🎧 <b style="color:#fff;">Usuario:</b> <code style="background:#000;color:#44ddff;">@kodokunigamixx</code>
-        </p>
-        <p align="center">
-          <img src="https://cataas.com/cat/gif" width="200" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x10/000000/000000?text=" width="100%" height="10" />
-</p>
-
-<div align="center">
-  <table width="80%" style="background-color:#181818; border-radius:20px;">
-    <tr>
-      <td>
-        <h2 align="center" style="color:#fff;">💙 🎵 Música que escucho ahora</h2>
-        <p align="center">
-          (YouTube Music → Last.fm)<br>
-          <img src="https://lastfm-recently-played.vercel.app/api?user=AnaReginaXX" alt="LastFM" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x10/000000/000000?text=" width="100%" height="10" />
-</p>
-
-<div align="center">
-  <table width="80%" style="background-color:#181818; border-radius:20px;">
-    <tr>
-      <td>
-        <h2 align="center" style="color:#fff;">💙 🎮 Juegos que estoy jugando en Steam</h2>
-        <p align="center">
-          <img src="https://github-readme-steam-status.vercel.app/status/76561199202911474" alt="Steam Status" />
         </p>
       </td>
     </tr>
