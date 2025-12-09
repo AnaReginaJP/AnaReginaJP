@@ -22,7 +22,8 @@
 
 # 💙 Certificaciones  
 🔗 **LinkedIn:**  
-👉 https://www.linkedin.com/in/ana-regina-jaramillo-pineda-251ba233a/
+👉 https://www.scrumstudy.com/certification/verify?type=SFC&number=1110189
+👉 https://www.credly.com/badges/2ce20433-23a7-4e3e-87f8-a1e0da41f930/linked_in_profile
 
 ---
 
@@ -44,6 +45,3 @@
 # 💙 Gatitos Animados por todos lados  
 
 <img src="https://cataas.com/cat/gif" width="200">  
-<img src="https://cataas.com/cat/gif?type=sq" width="160"](https://media.tenor.com/KshIPrRS1aAAAAAM/cat-orange-cat.gif)">  
-<img src="https://cataas.com/cat/gif?filter=mono" width="180">  
-<img src="https://cataas.com/cat/says/Kodokunigamixx" width="300">
