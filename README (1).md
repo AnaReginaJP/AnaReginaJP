@@ -1,18 +1,11 @@
 # 🌟 Hola Mundito :3  
-![Banner](BannerUno.png)
 
----
-
-# 🐱💙 Tema Azul + Gatitos Everywhere 💙🐱  
-
-<img src="https://cataas.com/cat/gif" width="150">  
 <img src="https://cataas.com/cat/says/Hola%20Mundito?color=white&size=30" width="300">
 
----
+![Banner](BannerUno.png)
+
 
 # 💙 Sobre mí  
-**Nombre:** *Ana Regina*  
-
 **Lenguajes que uso:**  
 💙 Dart  
 💙 Flutter  
@@ -34,7 +27,7 @@
 ---
 
 # 💙 Mi Discord  
-🎧 **Usuario:** `@AnaReginaJP`
+🎧 **Usuario:** `@kodokunigamixx`
 
 <img src="https://cataas.com/cat/gif" width="200">
 
@@ -48,13 +41,9 @@
 # 💙 🎮 Juegos que estoy jugando en Steam  
 ![Steam](https://github-readme-steam-status.vercel.app/status/76561199202911474)
 
-<img src="https://cataas.com/cat/gif?type=sq" width="140">
-
----
-
 # 💙 Gatitos Animados por todos lados  
 
 <img src="https://cataas.com/cat/gif" width="200">  
-<img src="https://cataas.com/cat/gif?type=sq" width="160">  
+<img src="https://cataas.com/cat/gif?type=sq" width="160"](https://media.tenor.com/KshIPrRS1aAAAAAM/cat-orange-cat.gif)">  
 <img src="https://cataas.com/cat/gif?filter=mono" width="180">  
 <img src="https://cataas.com/cat/says/Kodokunigamixx" width="300">
