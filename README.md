@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="KodokuNigamiXX-Banner.png" alt="KodokuNigamiXX Banner" width="90%" />
+  <img src="KodokuNigamiXX-Banner.png" alt="BannerUno.png" width="90%" />
 </p>
 
 <!-- Fondo negro simulado usando tabla con una celda negra -->
